@@ -1,10 +1,11 @@
 body{
-  background-color: green;
+  background-color: #9CA489
 }
 h1{
+  border: 5px solid black;
   color: red;
   text-align: center;
-  background-color: green;
+  background-color: black;
 }
 .p1{
   border: 2px blue;
@@ -31,6 +32,25 @@ img{
   font-size: 20px;
 }
 h2{
-  color: blue;
+  color: orange;
   text-align: left;
+}
+.p4{
+  text-align: left;
+  font-size: 20px;
+}
+.img2{
+  float: right;
+  width: 350px;
+  height: 350px;
+}
+.p5{
+  text-align: left;
+}
+#p7{
+  color: purple;
+}
+#p6{
+  color: #008B8B;
+  font-style: italic;
 }
