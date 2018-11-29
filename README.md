@@ -1,5 +1,5 @@
 # My Developer Profile.
-#### This is a website showing the portfolio of Carey Francis Ojall,25TH NOVEMBER 2018.
+#### This is a website showing the portfolio of Carey Francis Ojall, 25TH NOVEMBER 2018.
 #### By **Carey Francis Ojall.**
 ## Description
 The website shows the developer's projects that he has created so far.There are three projects listed on the first page.
